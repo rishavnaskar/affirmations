@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmation</string>
+
+    <string name="affirmation1">I am string</string>
+    <string name="affirmation2">I believe in myself</string>
+    <string name="affirmation3">Each day is new opportunity</string>
+    <string name="affirmation4">Every challenge</string>
+    <string name="affirmation5">I have so much to learn</string>
+    <string name="affirmation6">Good things</string>
+    <string name="affirmation7">New opportunities</string>
+    <string name="affirmation8">Things will be praise</string>
+    <string name="affirmation9">Things will unfold</string>
+    <string name="affirmation10">I will be present</string>
+</resources>
